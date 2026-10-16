@@ -8,3 +8,5 @@ Make new sentence by Markov chain from your markdownfile.
 - Number of Paragraph: default is 0.
 - Output file: output file.
 3 Click Submit. 
+# Caution
+- this plugin is only supports Japanese.

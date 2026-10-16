@@ -1,6 +1,6 @@
 # OBSIDIAN-Nikki-Generator
 Diary Generator.
-Make new sentence by Markov chain from your markdownfile.
+Make new sentence from your markdownfile by Markov chain .
 # How to Use
 1. Click scissor botton.
 2. Fill propaty.

@@ -1,0 +1,10 @@
+{
+	"id": "FRE",
+	"name": "FRE",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Diary Generator.",
+	"author": "Artemisia",
+	"authorUrl": "https://github.com/ArtemisiaYH",
+	"isDesktopOnly": true
+}

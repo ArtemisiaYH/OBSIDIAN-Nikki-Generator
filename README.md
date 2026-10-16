@@ -9,4 +9,4 @@ Make new sentence by Markov chain from your markdownfile.
 - Output file: output file.
 3 Click Submit. 
 # Caution
-- this plugin is only supports Japanese.
+- this plugin only supports Japanese.
